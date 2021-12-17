@@ -1,0 +1,49 @@
+.tableau{
+    background-color:rgb(255, 249, 249);
+    
+}
+
+.h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250%;
+    color: rgb(202, 169, 169);
+    text-shadow: 3px 3px #f5e4e4;
+    background-color:rgb(223, 196, 196);
+  }
+
+.sub1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+    color: rgb(117, 115, 115);
+    margin-left: 25%;
+    margin-right: 25%;
+    font-weight:bold;
+    text-shadow: 2px 2px #f5e4e4;
+  }
+
+.sub2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    font-weight:bold;
+    color: rgb(189, 181, 181);
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.navigation{
+    font-family: system-ui;
+    font-size: 100%;
+    font-weight:bold;
+    color: rgb(189, 181, 181);
+}
+
+.footer{
+    font-family: system-ui;
+    font-size: 100%;
+    color: rgb(122, 116, 116);
+}
+
+.tableausizer{
+    margin-left: 25%;
+    margin-right: 35%;
+}

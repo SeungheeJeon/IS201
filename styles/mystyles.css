@@ -1,0 +1,70 @@
+.title1 {
+    font-family: "open sans";
+    font-size: 130%;
+    color: rgb(29, 27, 27);
+    text-shadow: 5px 5px #fae5e5;
+    font-weight:bold;
+  }
+
+.subtitle1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 95%;
+  }
+
+.title2 {
+    font-family: "open sans";
+    font-size: 135%;
+    color: rgb(29, 27, 27);
+    text-decoration: underline;
+    
+}
+
+.subtitle2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90%;
+    color: rgb(173, 172, 172);
+    text-shadow: 5px 5px #fae5e5;
+}
+
+.title3 {
+    font-family: system-ui;
+    font-size: 200%;
+    color: rgb(248, 244, 244);
+    text-shadow: 2px 2px #fdd4d4;
+    
+}
+
+.subtitle3 {
+    font-family: system-ui;
+    font-size: 130%;
+    color: rgb(248, 247, 247);
+    text-shadow: 0.1px 0.1px #fae5e5;
+}
+
+.title4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 95%;
+    color: rgb(119, 115, 115);
+
+}
+
+.subtitle4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 95%;
+    color: rgb(173, 172, 172);
+    text-shadow: 2px 2px #fae5e5;
+}
+
+.padding_pics{ 
+    margin: 5px 5px 5px 150px;
+} 
+
+.padding_video{ 
+    margin: 5px 5px 5px 65px;
+} 
+
+.padding_bottom{
+    font-family: system-ui;
+    font-size: 90%;
+    text-shadow: 5px 5px #fae5e5;
+}
